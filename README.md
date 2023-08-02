@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew 👋
 
-I'm a brazilian IT professional with a diverse background.
+I'm a Brazilian IT professional with a diverse background.
 
 - 📧 Reach me at: andrewmendes@gmail.com
 
