@@ -1,10 +1,12 @@
 ### Hi there, I'm Andrew 👋
 
-I'm an IT professional with a versatile background.
+I'm a brazilian IT professional with a versatile background.
 
 - 📧 Reach me at: andrewmendes@gmail.com
 
 - 🌱 I have an IT associate degree and I'm working on a second one in Software Analysis and Development
+
+- 🗨️ I speak Portuguese, English and some Spanish as well
 
 - 🤩 I'm fascinated by science
 
