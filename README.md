@@ -10,7 +10,7 @@ I'm a brazilian IT professional with a diverse background.
 
 - 🤩 I'm fascinated by science
 
-- 🎨 I'm also a graphical and musical artist
+- 🎨 I enjoy crafting things, drawing and making music
 
 <h3>Languages and tools I'm familiar with:</h3>
 <p align="left">
