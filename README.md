@@ -4,11 +4,11 @@ I'm a Brazilian IT professional with a diverse background.
 
 - 📧 Reach me at: andrewmendes@gmail.com
 
-- 🌱 I have an IT associate degree and I'm working on a second one in Software Analysis and Development
+- 🌱 I have an IT associate degree
 
 - 🗨️ I speak Portuguese, English and some Spanish as well
 
-- 🤩 I'm fascinated by science
+- 📖 I'm fascinated by science and history
 
 - 🎨 I enjoy crafting things, drawing and making music
 
