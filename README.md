@@ -1,16 +1,16 @@
 ### Hi there, I'm Andrew 👋
 
-I'm a Brazilian IT professional with a diverse background.
+I'm a Brazilian IT professional and Artist with a diverse background.
 
-- 📧 Reach me at: andrewmendes@gmail.com
-
-- 🌱 I have an IT associate degree
-
-- 🗨️ I speak Portuguese, English and some Spanish as well
+- 🎨 I enjoy crafting things, painting and making music
 
 - 📖 I'm fascinated by science and history
 
-- 🎨 I enjoy crafting things, drawing and making music
+- 🗨️ I speak Brazilian Portuguese and English
+
+- :mortar_board: I have an IT associate degree
+
+- 📧 Reach me at: andrewmendes@gmail.com
 
 <h3>Languages and tools I'm familiar with:</h3>
 <p align="left">
